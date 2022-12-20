@@ -5,7 +5,7 @@ A social media application to connect users , share opinions, ideas and relate t
 # In case you Want to build on this project?
    Check out the Social blog post.
 
-# Want to use this project?
+# Want to use this project? 
    Fork/Clone
    Install dependencies - npm install
    Create and seed a Postgres database, Mssql-server
