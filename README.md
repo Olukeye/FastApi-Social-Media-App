@@ -2,8 +2,8 @@
 A social media application to connect users , share opinions, ideas and relate together..
 
 # Swagger and FastAPI
-#In case you Want to build on this project?
-*  Check out the Social blog post.
+# In case you Want to build on this project?
+   Check out the Social blog post.
 
 # Want to use this project?
   Fork/Clone
