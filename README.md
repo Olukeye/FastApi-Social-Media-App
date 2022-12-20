@@ -9,4 +9,4 @@ A social media application to connect users , share opinions, ideas and relate t
    * Sanity check - create an venv environmnet by running "py -3 -m  venv venv"
    * Install dependencies - pip install
    * Create and seed a Postgres database, Mssql-server
-   * Navigate to http://127.0.0.1:8000/ and http://127.0.0.1:8000/docs
+   * Navigate to http://127.0.0.1:8000/ and http://127.0.0.1:8000/docs (heroku hosted is deactivated)
