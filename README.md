@@ -6,7 +6,7 @@ A social media application to connect users , share opinions, ideas and relate t
    Check out the Social blog post.
 
 # Want to use this project? 
-   * Install dependencies - npm install
-   * Create and seed a Postgres database, Mssql-server
    * Sanity check - create an venv environmnet by running "py -3 -m  venv venv"
+   * Install dependencies - pip install
+   * Create and seed a Postgres database, Mssql-server
    * Navigate to http://127.0.0.1:8000/ and http://127.0.0.1:8000/docs
